@@ -1,0 +1,25 @@
+body
+{
+    color: aliceblue;
+    background-color: rgb(157, 211, 230);
+}
+
+h3
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_of_object, #result_of_accuracy
+{
+    color: crimson;
+    font-family: fantasy;
+    font-weight: bold;
+}
